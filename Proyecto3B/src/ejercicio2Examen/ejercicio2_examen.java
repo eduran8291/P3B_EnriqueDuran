@@ -1,4 +1,4 @@
-package emamenTema_3;
+package ejercicio2Examen;
 
 public class ejercicio2_examen {
 
